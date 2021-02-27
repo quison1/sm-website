@@ -50,7 +50,7 @@ sections:
     subtitle: >-
       Here's some what our customers say about us!
     reviews:
-      - author: BiangBiangMian
+      - author: Biang Biang Canberra
         #avatar: images/review1.jpg
         #avatar_alt: Eric Widget's photo
         content: >-
