@@ -1,0 +1,6 @@
+### Jekyll ###
+_site/
+images-raw/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
